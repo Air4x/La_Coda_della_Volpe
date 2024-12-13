@@ -1,0 +1,7 @@
+#+TITLE: NPC
+
+* Uomo Incappucciato
+:PROPERTIES:
+:DOVE: Taverna?
+:END:
+Uomo di mezza età (tra i 40 e i 50 anni)
