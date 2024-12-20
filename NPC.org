@@ -5,3 +5,27 @@
 :DOVE: Taverna?
 :END:
 Uomo di mezza età (tra i 40 e i 50 anni)
+
+* Mastro Fernand
+:PROPERTIES:
+:RUOLO: Direttore della Gilda
+:LUOGO: Gilda della cittadina di inizio
+:RAZZA: Umano M
+:END:
+Uomo all'inizio della terza età. Basso e tarchiato, presenta una folta
+barba bianca sulle guance, che si collegano poi a delle spesse
+basette.  Basette che contrastano la vistosa mancanza di
+capelli. Fernand è un uomo affabile e allegro, nonostante l'età gli
+occhi si presentano vispi e curiosi. Le parole, anche se dette con
+tono convenevole e allegro, tradiscono una grande esperienza.
+* Garret
+:PROPERTIES:
+:RUOLO: Assistende del direttore di Gilda
+:LUOGO: Gilda della cittadina di inizio
+:RAZZA: Mezzo Elfo M
+:END:
+Senza barba o baffi, si presenta con l'aspetto di un giovane uomo dai
+lunghi capelli biondi. Di costituzione longilinea, ha un colore della
+pelle molto chiaro.  Ha un modo di fare diplomatico. Non sembra mai
+perdere la calma, ma sa farsi rispettare, specialmente dagli
+avventurieri più rumorosi di stanza alla Gilda.

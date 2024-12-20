@@ -1,6 +1,21 @@
 #+TITLE: La coda della Volpe
 #+AUTHOR: Mario Calcagno
 
+
 * Sinopsi
+La storia incomincia con il party all'interno dell'aticamera dell'ufficio del
+direttore della Gilda di <<X>>. 
+
+* Missione
+Esplorare un dungeon ai limiti del regno
 
 * Prologo
+Vi ritrovare in una stanza ampia, con sedie e panche lungo i muri.
+Sul pavimento un ampio tappeto color verde erba adornato con ricami in
+oro lungo il bordo. Ricami ripresi da una serie di stendardi in due
+tonalità di verde alternate, appesi sulle pareti. Gli stendardi sono
+decorati con una serie di stemmi araldici. Di fronte a voi una porta
+di castagno a due ante. Dopo una leggera attesa vedete uscire un
+mezz'elfo [[file:NPC.org::*Garret][Garret]] dai capelli lunghi e biondi e dal viso giovane.
+
+GARRET: "Mi scuso per l'attesa, [[file:NPC.org::*Mastro Fernand][Mastro Fernand]] è pronto ad accogliervi".
