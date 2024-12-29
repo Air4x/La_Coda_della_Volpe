@@ -18,6 +18,7 @@ basette.  Basette che contrastano la vistosa mancanza di
 capelli. Fernand è un uomo affabile e allegro, nonostante l'età gli
 occhi si presentano vispi e curiosi. Le parole, anche se dette con
 tono convenevole e allegro, tradiscono una grande esperienza.
+
 * Garret
 :PROPERTIES:
 :RUOLO: Assistende del direttore di Gilda
@@ -29,3 +30,14 @@ lunghi capelli biondi. Di costituzione longilinea, ha un colore della
 pelle molto chiaro.  Ha un modo di fare diplomatico. Non sembra mai
 perdere la calma, ma sa farsi rispettare, specialmente dagli
 avventurieri più rumorosi di stanza alla Gilda.
+
+* Re Sangeris I
+:PROPERTIES:
+:RUOLO: Re del regno di Thay
+:LUOGO: Stanza del trono
+:RAZZA: Umano M
+:END:
+Unico monarca del regno, nel tempo ha promulgato una serie di leggi a
+favore di maghi e collegi di stregoneria. È stato lui ad istituire il
+corpo di esploratori. Grande utilizzare di magia, a corte di dice che
+con il tempo abbia sviluppato un'ossessione per gli oggetti magici.

@@ -1,0 +1,11 @@
+#+TITLE: Gruppi e leghe
+#+AUTHOR: Mario Calcagno
+
+* Corpo di esploratori di sua Maestà
+Istituito da [[file:NPC.org::*Re Sangeris I][Re Sangeris I]] per l'individuazione, l'esplorazione
+di dungeon e luoghi di simile natura, con lo scopo di trovare e
+ottenere nuovi oggetti magici. È il corpo militare più giovane
+del regno di Thay.
+
+* Corte del regno di Thay
+Insieme di nobili in stanza al palazzo reale.

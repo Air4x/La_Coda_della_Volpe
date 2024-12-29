@@ -1,10 +1,10 @@
 #+TITLE: La coda della Volpe
 #+AUTHOR: Mario Calcagno
 
-
 * Sinopsi
-La storia incomincia con il party all'interno dell'aticamera dell'ufficio del
-direttore della Gilda di <<X>>. 
+È sera.
+La storia incomincia con il party all'interno dell'aticamera
+dell'ufficio del direttore della Gilda di <<X>>.
 
 * Missione
 Esplorare un dungeon ai limiti del regno
@@ -19,3 +19,20 @@ di castagno a due ante. Dopo una leggera attesa vedete uscire un
 mezz'elfo [[file:NPC.org::*Garret][Garret]] dai capelli lunghi e biondi e dal viso giovane.
 
 GARRET: "Mi scuso per l'attesa, [[file:NPC.org::*Mastro Fernand][Mastro Fernand]] è pronto ad accogliervi".
+
+Entrate in un ampio ufficio. Venite accolti da un grosso camino
+scricchiolante, notate tra le fiamme dei rametti di alloro vivo.
+Nell'ufficio si sente un leggero odore di incenso. Fernand vi accoglie
+con un grosso sorriso, con una pipa in mano, anche se i suoi occhi
+vi osservano con sguardo attento. Dopo due sbuffi di pipa, Mastro Fernand
+si sistema sulla sedia ed inizia:
+
+FERNAND: "Benvenuti avventurieri, vi chiederete perché la gilda vi 
+abbia chiamato. Ognuno di voi è stato scelto, per le proprie particolari
+abilità. La vostra missione è esplorare l'ultimo dungeon scoperto
+dal corpo di esplorazione di sua Maestà Sangeris I"
+
+                            SPAZIO DOMANDE
+
+FERDAND: "Ora che è tutto chiaro potete dirigervi verso il salone
+dove Garret vi comunicherà i dettagli più noiosi"
