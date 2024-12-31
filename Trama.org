@@ -36,3 +36,16 @@ dal corpo di esplorazione di sua Maestà Sangeris I"
 
 FERDAND: "Ora che è tutto chiaro potete dirigervi verso il salone
 dove Garret vi comunicherà i dettagli più noiosi"
+
+Dopo aver parlato con Garret, vi dirigete verso la locanda cittadina
+in cui prendete stanza e dormite fino all'alba del giorno dopo.
+
+* Il viaggio
+È mattina, fuori dalla locanda vi aspettano due carrozze, sulle porte
+notate lo stemma reale. Dalla prima carrozza vedete scendere un uomo
+dai capelli castani, raccolti in una coda. L'uomo si presenta come [[file:NPC.org::*Sir Abien][Sir
+Abien]], capitano del II reggimento del [[file:Gruppi.org::*Corpo di esploratori di sua Maestà][Corpo di esploratori di sua
+Maestà]]. Vi mostra un documento, firmato dal Re, che farà da lascia
+passare per la capitale. Sir Abien vi invita a salire sulle carrozze
+per partire al più presto. Il viaggio sarà lungo.
+

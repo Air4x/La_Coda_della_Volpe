@@ -1,0 +1,78 @@
+#+TITLE: Lista Nemici
+#+AUTHOR: Mario Calcagno
+#+LICENSE: Open Game License
+
+* Bandito
+Media, Non Legale (*)
+- CA :: 12
+- HP :: 11
+- Velocità :: 9m
+** Statistiche
+| STR | 11 | 0 |
+| DEX | 12 | 1 |
+| CON | 12 | 1 |
+| INT | 10 | 0 |
+| WIS | 10 | 0 |
+| CHA | 10 | 0 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills :: NESSUNO
+- Sensi :: Percezione Passiva (10)
+- Lingue :: Comune
+- Sfida :: 1/8 (25PE)
+** Passive
+NESSUNO
+** Immunità
+*** Danno
+NESSUNO
+*** Condizioni
+NESSUNO
+** Azioni
+- Scimitarra :: Attacco con arma da mischia: +3 a colpire, 1,5 m di
+  portata, bersaglio singolo
+  - danni :: 4 (1d6 +1) danni taglienti
+- Balestra Leggera :: Attacco con arma a Gittata: +3 a colpire,
+  gittata 24/96 metri, bersaglio singolo
+  - danni :: 5 (1d8 +1) danni taglienti
+** Reazioni
+NESSUNO
+
+* Capo dei banditi
+Media, Non Legale (*)
+- CA :: 15
+- HP :: 65
+- Velocità :: 9m
+** Statistiche
+| STR | 15 | 2 |
+| DEX | 16 | 3 |
+| CON | 14 | 2 |
+| INT | 14 | 2 |
+| WIS | 11 | 0 |
+| CHA | 14 | 2 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills :: Atletica (+4), Raggiro(+4)
+- Sensi :: Percezione Passiva (10)
+- Lingue :: Comune, elfico
+- Sfida :: 1/8 (25PE)
+** Passive
+NESSUNO
+** Tiri salvezza
+- Forza :: +4
+- Destrezza :: +4
+- Saggezza :: +2
+** Immunità
+*** Danno
+NESSUNO
+*** Condizioni
+NESSUNO
+** Azioni
+- Scimitarra :: Attacco con arma da mischia: +5 a colpire, 1,5 m di
+  portata, bersaglio singolo
+  - danni :: 5 (1d4 + 3) danni  taglienti
+- Pugnale :: Attacco con arma a Gittata: +3 a colpire,
+  gittata 24/96 metri, bersaglio singolo
+  - danni :: 5 (1d4 + 3) danni perforanti
+** Reazioni
+- Parata :: Il capitano somma 2 alla sua CA contro un attacco in
+  mischia.

@@ -41,3 +41,15 @@ Unico monarca del regno, nel tempo ha promulgato una serie di leggi a
 favore di maghi e collegi di stregoneria. È stato lui ad istituire il
 corpo di esploratori. Grande utilizzare di magia, a corte di dice che
 con il tempo abbia sviluppato un'ossessione per gli oggetti magici.
+
+* Sir Abien
+:PROPERTIES:
+:RUOLO: Capitano del II regimento del corpo degli esploratori di sua maestà
+:LUOGO: Prima parte del viaggio (fino alla capitale)
+:RAZZA: Umano M
+:END:
+Uomo dall'altezza media. Capelli lunghi, raccolti in una coda, e
+castani. La maggior parte del tempo lo si vede indossare l'uniforme, del
+[[file:Gruppi.org::*Corpo di esploratori di sua Maestà][Corpo di esploratori di sua Maestà]].
+
+

@@ -2,10 +2,25 @@
 #+AUTHOR: Mario Calcagno
 
 * Corpo di esploratori di sua Maestà
-Istituito da [[file:NPC.org::*Re Sangeris I][Re Sangeris I]] per l'individuazione, l'esplorazione
-di dungeon e luoghi di simile natura, con lo scopo di trovare e
-ottenere nuovi oggetti magici. È il corpo militare più giovane
-del regno di Thay.
+Istituito da [[file:NPC.org::*Re Sangeris I][Re Sangeris I]] per l'individuazione, l'esplorazione di
+dungeon e luoghi di simile natura, con lo scopo di trovare e ottenere
+nuovi oggetti magici. È il corpo militare più giovane del regno di
+Thay. L'uniforme è di vari colori, in base al battaglione di
+appartenenza. La dotazione standard del corpo è:
+- scimitarra
+- pugnale
+- dotazione standard da esploratore
+- picca
+- martello
+
+** I battaglione
+Uniforme blu, con dettagli in nero. Oltre alla dotazione standard
+portano con se, apposto sulla giacca, un fiore di vetro di colore
+azzurro.
+
+** II battaglione
+Uniforme rossa, con dettagli in nero. Oltre alla dotazione standard
+portano con se, aposta sulla giacca, una piuma di fenice.
 
 * Corte del regno di Thay
 Insieme di nobili in stanza al palazzo reale.
