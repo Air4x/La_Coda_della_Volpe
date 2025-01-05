@@ -1,6 +1,6 @@
 #+TITLE: La coda della Volpe
 #+AUTHOR: Mario Calcagno
-
+#+STARTUP: overview
 * Sinopsi
 È sera.
 La storia incomincia con il party all'interno dell'aticamera
@@ -49,3 +49,42 @@ Maestà]]. Vi mostra un documento, firmato dal Re, che farà da lascia
 passare per la capitale. Sir Abien vi invita a salire sulle carrozze
 per partire al più presto. Il viaggio sarà lungo.
 
+** L'attacco dei banditi
+Dopo diverse ore di viaggio, le carrozze si fermano bruscamente e
+sentite un uomo dalla voce roca sbraitare. Riuscite a capire, tra i
+versi poco chiari dell'uomo, che vi sta intimando di scendere.
+*** SCONTRO:
+- 9 giocatori
+  - 2 livelli 3
+  - 7 livelli 1
+- 15 nemici
+  - 14 [[file:Nemici.org::*Bandito][banditi]]
+  - 1 [[file:Nemici.org::*Capo dei banditi][capo dei banditi]]
+- PE totali: 800 PE
+- PE per singolo giocatore: 88
+#+begin_src shell :results output
+  for i in $(seq 1 15);
+  do
+      dice d20
+  done
+#+end_src
+
+#+RESULTS:
+: 20	8	17	17	17	14	5	14	20	3	16	20	20	14	5	
+- Ordine di combattimento:
+  1. 20 bandito 9 
+  2. 20 bandito 13 
+  3. 20 bandito 12 
+  4. 20 bandito 1
+  5. 17 bandito 5 
+  6. 17 bandito 4
+  7. 17 bandito 3 
+  8. 16 bandito 11 
+  9. 14 bandito 8 
+  10. 14 bandito 6
+  11. 14 bandito 14
+  12. 8 bandito 2
+  13. capo dei banditi 5
+  14. 5 bandito 7 
+  15. 3 bandito 10 
+* 

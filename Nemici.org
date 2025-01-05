@@ -54,7 +54,7 @@ Media, Non Legale (*)
 - Skills :: Atletica (+4), Raggiro(+4)
 - Sensi :: Percezione Passiva (10)
 - Lingue :: Comune, elfico
-- Sfida :: 1/8 (25PE)
+- Sfida :: 2 (450PE)
 ** Passive
 NESSUNO
 ** Tiri salvezza
