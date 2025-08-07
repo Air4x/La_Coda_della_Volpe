@@ -1,0 +1,13 @@
+#+TITLE: Glossario
+#+STARTUP: overview
+
+* Gocce di cristallo
+Termine comune utilizzato per riferirsi a flussi d'acqua, di solito
+facenti parte di una fontana, arricchiti con mana per dare un effetto
+simile al riflesso della luce su di una gemma o su un pezzo di metallo
+
+* Oggetti magici
+Oggetti incantati con delle abilità particolari. Per molto tempo la
+capacità di crearli era stata persa, recentemente gli artigiani del
+regno di Thay sono riuscita a trovare il modo di creare piccoli
+oggetti magici
