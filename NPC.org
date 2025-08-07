@@ -1,4 +1,5 @@
 #+TITLE: NPC
+#+STARTUP: overview
 
 * Uomo Incappucciato
 :PROPERTIES:
