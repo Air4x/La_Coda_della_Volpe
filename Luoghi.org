@@ -1,0 +1,40 @@
+#+TITLE: Luoghi
+#+LICENSE: Open Game License
+
+* Regno di Thay
+Regno sviluppatosi sulla costa sud-est del continente. Governato da
+una monarchia con a capo [[file:NPC.org::Re Sangeris I][Re Sangeris I]]. Il regno si è sviluppato
+grazie all'uso e al commercio di [[file:Glossario.org][oggetti magici]], la cui regione è
+stranamente ricca. Il regno di Thay, che prende il nome dalla catena
+montuosa posizionata al suo centro, è uno dei regni più giovani del
+continente, ma non per questo militarmente meno sviluppato.
+
+* Waterdeep
+Capitale del [[*Regno di Thay][regno di thay]]. Conosciuta anche come la Città degli
+splendori o come la Corona del Mare, si sviluppa su buona parte della
+costa a sud-est diventando il più grande porto del regno. La città è
+caratterizzata da un grosso commercio marittimo in una varietà di
+merci, da prodotti agricoli ad oggetti magici.
+[[./images/waterdeep_map_draft.jpg]]
+La città è divisa in quattro dai due decumani:
+- il decumano maggiore :: parallelo al porto, va da sud-ovest a nord-est;
+- il decumano minore :: perpendicolare alla linea di porto, va da
+  nord-ovest a sud-est, arrivando al porto;
+I due decumani si incontrano al centro della città formando la piazza
+principale, caratterizzata da una fontana di [[file:Glossario.org::*Gocce di cristallo][gocce di cristallo]].
+
+I quattro quartieri sono organizzati nel seguente modo:
+- Quartiere nord :: qui si trova la corte ed il palazzo reale, è la
+  residenza del [[file:NPC.org::*Re Sangeris I][re]]. Qui si trovano anche i quartieri del primo
+  generale ed il palazzo di guerra
+- Quartiere ovest :: quartiere principalmente residenziale, presenta
+  piccoli negozi di generi alimentar e la solita taverna, in
+  particolare due taverne sul decumano maggiore: una vicino alla
+  piazza ed una nella seconda metà del decumano a scendere.
+- Quartiere sud :: uno dei quartieri commerciali di Waterdeep, qui si
+  trovano i magazzini del porto e le botteghe dei pescatori.
+- Quartiere est :: uno dei quartieri commerciali, diversamente dal
+  quartiere sud, questo è più concentrato sulla manifattura di
+  utensili e beni commerciali; qui si trovano fabbri, carristi e un
+  piccolo gruppo di artigiani capaci di creare piccoli oggetti magici.
+  
