@@ -20,7 +20,12 @@ azzurro.
 
 ** II battaglione
 Uniforme rossa, con dettagli in nero. Oltre alla dotazione standard
-portano con se, aposta sulla giacca, una piuma di fenice.
+portano con se, posta sulla giacca, una piuma di fenice.
+
+** VII battaglione
+Battaglione di esploratori elite, organizzato in team da 5 membri ognuno
+con un suo ruolo:
+- 
 
 * Corte del regno di Thay
 Insieme di nobili in stanza al palazzo reale.
