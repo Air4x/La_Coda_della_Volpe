@@ -54,47 +54,4 @@ per partire al più presto. Il viaggio sarà lungo.
 Dopo diverse ore di viaggio, le carrozze si fermano bruscamente e
 sentite un uomo dalla voce roca sbraitare. Riuscite a capire, tra i
 versi poco chiari dell'uomo, che vi sta intimando di scendere.
-*** SCONTRO:
-- 9 giocatori
-  - 2 livelli 3
-  - 7 livelli 1
-- 15 nemici
-  - 14 [[file:Nemici.org::*Bandito][banditi]]
-  - 1 [[file:Nemici.org::*Capo dei banditi][capo dei banditi]]
-- PE totali: 800 PE
-- PE per singolo giocatore: 88
-#+begin_src shell :results output
-  for i in $(seq 1 15);
-  do
-      dice d20
-  done
-#+end_src
-
-#+RESULTS:
-: 20	8	17	17	17	14	5	14	20	3	16	20	20	14	5	
-- Ordine di combattimento:
-  1. _20 bandito 9 (0hp)_
-  2. _20 bandito 13 (0hp)_
-  3. _20 bandito 12 (0hp)_
-  4. 20 bandito 1 (scappato)
-  5. Federica
-  6. _17 bandito 5 (0hp)_
-  7. _17 bandito 4 (0hp)_
-  8. _17 bandito 3 0hp 14m_
-  9. Salvatore 16
-  10. Michela 16
-  11. Francesco 16
-  12. _16 bandito 11 (0hp)_
-  13. Giuseppe
-  14. Giovanna 
-  15. _14 bandito 8 (0hp)_
-  16. _14 bandito 6 0hp_
-  17. 14 bandito 14 0hp (14m)
-  18. Miriam
-  19. 8 bandito 2 0hp 14m
-  20. Daniele
-  21. _capo dei banditi 5 (0hp) (14m)_
-  22. _5 bandito 7 0hp_
-  23. Mathias
-  24. 3 bandito 10 0hp 14m
 * L'arrivo alla capitale
