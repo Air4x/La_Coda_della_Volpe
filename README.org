@@ -1,0 +1,11 @@
+* La coda della volpa
+Questo repo contiene il materiale per l'omonima campagna
+
+** Contenuto dei file
+- Trama.org :: La trama della campagna, divisa per micro archi narrativi
+- Gruppi.org :: informazioni su tutti i gruppi e le fazioni coinvolte
+  nella storia
+- Luoghi.org :: descrizione dei luoghi in cui la storia è ambientata
+- Nemici.org :: stat-block dei NPC usati negli incontri
+- NPC.org :: descrizione dei NPC con cui i giocatori possono interagire
+- Glossario.org :: lista di termini con rispettive spiegazioni usati nella storia
